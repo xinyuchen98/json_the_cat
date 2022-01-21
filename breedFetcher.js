@@ -11,5 +11,4 @@ request(url + keyword, (error, response, body) => {
   } else {
     console.log("The requested breed is not found");
   }
-
 });
